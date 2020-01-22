@@ -37,7 +37,6 @@ node liri.js concert-this artist
 
 This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and 
 render the  information about each event to the terminal.
-
 node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.  
