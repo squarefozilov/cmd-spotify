@@ -3,8 +3,7 @@ cmd-request-api
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-LIRI functionality has for main
- commands 
+LIRI functionality has four main commands 
 
 node liri.js spotify-this-song 
 
